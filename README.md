@@ -106,7 +106,9 @@ The project follows a structured 7-phase approach:
 
 ## 📈 Project Workflow
 
-*[Insert Detailed Workflow Diagram Here]*
+## CAR PRICE PREDICTION - COMPLETE DATA FLOW DIAGRAM
+
+<img width="3247" height="5115" alt="image" src="https://github.com/user-attachments/assets/cbcc0133-3319-4157-8898-a4c29c13c273" />
 
 ## 🔍 Phase 1: Data Collection & Exploration
 
@@ -359,9 +361,7 @@ Fuel Type (4.2%) - Operational preference
 
 Car Type (2.0%) - Body style
 
-## CAR PRICE PREDICTION - COMPLETE DATA FLOW DIAGRAM
 
-<img width="3247" height="5115" alt="image" src="https://github.com/user-attachments/assets/cbcc0133-3319-4157-8898-a4c29c13c273" />
 
 ##  DETAILED PREDICTION PIPELINE FLOW
 
