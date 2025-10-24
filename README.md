@@ -359,7 +359,29 @@ Fuel Type (4.2%) - Operational preference
 
 Car Type (2.0%) - Body style
 
+## CAR PRICE PREDICTION - COMPLETE DATA FLOW DIAGRAM
+
+<img width="3247" height="5115" alt="image" src="https://github.com/user-attachments/assets/cbcc0133-3319-4157-8898-a4c29c13c273" />
+
+##  DETAILED PREDICTION PIPELINE FLOW
+
+<img width="11926" height="3481" alt="deepseek_mermaid_20251024_b040d7" src="https://github.com/user-attachments/assets/c7cad629-19d7-47a0-afa1-314f0dbeedc6" />
+
+## FEATURE ENGINEERING FLOW
+
+<img width="8858" height="3306" alt="deepseek_mermaid_20251024_3dd7c9" src="https://github.com/user-attachments/assets/cd06e476-3ab7-4d77-be7e-296c49925a73" />
+
+## SYSTEM ARCHITECTURE FLOW
+
+<img width="1221" height="2544" alt="image" src="https://github.com/user-attachments/assets/6cf5f09d-ffe5-4e3c-9609-ff4dbc38601b" />
+
+##  PREDICTION WORKFLOW SEQUENCE
+
+<img width="4398" height="3930" alt="deepseek_mermaid_20251024_36e2b8" src="https://github.com/user-attachments/assets/053be9e7-8200-4820-a286-5c99eefcfe6b" />
+
+
 ### 🎯 Key Findings
+
 Technical Insights
 Ensemble methods (Random Forest, Extra Trees) significantly outperformed linear regression
 
